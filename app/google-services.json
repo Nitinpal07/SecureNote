@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "102997309122",
+    "firebase_url": "https://note-4f49b.firebaseio.com",
+    "project_id": "note-4f49b",
+    "storage_bucket": "note-4f49b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102997309122:android:5b77cf6ffd693fd5",
+        "android_client_info": {
+          "package_name": "nitin.luckyproject.securenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102997309122-9lrtu5f8auoq6ifp0g9bfh867u0gheg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nitin.luckyproject.securenote",
+            "certificate_hash": "3f2e4deb8bb70c962869c997b2c43dbbf3becb0d"
+          }
+        },
+        {
+          "client_id": "102997309122-69uvudrl6oj3i27sqthbsb9b9qq7mb27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGdNcpUW1g7_zIkpAle3Du7xeCiBKkaOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102997309122-69uvudrl6oj3i27sqthbsb9b9qq7mb27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
